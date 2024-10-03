@@ -1,10 +1,12 @@
-# Segment plugin
+# Segment Library for Flutter
 [![Pub Version](https://img.shields.io/pub/v/flutter_segment)](https://pub.dev/packages/flutter_segment_analytics)
 [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg)](https://pub.dev/packages/lint)
 
 This library was originally created by [claimsforce-gmbh](https://github.com/claimsforce-gmbh) and then maintained by [la-haus](https://github.com/la-haus). We are extremely grateful for the work they have done building and maintaining this package.
 
-`Additionally, I needed to provide support for the new Android API level to fix compilation errors, which is why I created this fork of the project. I do not intend to make it public on pub.dev unless the original project maintained by la-haus is abandoned. Feel free to import this package and use it in your projects, as well as to create new forks.`
+```
+Additionally, I needed to provide support for the new Android API level to fix compilation errors, which is why I created this fork of the project. I do not intend to make it public on pub.dev unless the original project maintained by la-haus is abandoned. Feel free to import this package and use it in your projects, as well as to create new forks.
+```
 
 Flutter plugin to support iOS, Android and Web sources at https://segment.com.
 
