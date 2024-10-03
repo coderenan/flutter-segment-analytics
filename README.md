@@ -15,8 +15,11 @@ Please have a look at [this issue](https://github.com/claimsforce-gmbh/flutter-s
 ## Usage
 To use this plugin, add:
 
-  `flutter_segment_analytics:
-    url: https://github.com/coderenan/flutter-segment-analytics.git`
+  ```
+  flutter_segment_analytics:
+    url: https://github.com/coderenan/flutter-segment-analytics.git
+  
+  ```
   as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
 ### Important note for iOS usage
